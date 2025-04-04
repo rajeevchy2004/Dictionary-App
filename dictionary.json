@@ -1,0 +1,1364 @@
+{
+  "words": {
+    "serendipity": {
+      "phonetic": "/ˌsɛrənˈdɪpɪti/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serendipity-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The occurrence of events by chance in a happy or beneficial way.",
+              "example": "A fortunate stroke of serendipity led to the discovery."
+            }
+          ],
+          "synonyms": ["chance", "fortuity", "luck", "fluke"]
+        }
+      ]
+    },
+    "ephemeral": {
+      "phonetic": "/ɪˈfɛm(ə)rəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Lasting for a very short time.",
+              "example": "Fashions are ephemeral, but style is eternal."
+            }
+          ],
+          "synonyms": ["transitory", "short-lived", "fleeting", "momentary"]
+        }
+      ]
+    },
+    "quintessential": {
+      "phonetic": "/ˌkwɪntɪˈsɛnʃ(ə)l/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quintessential-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Representing the most perfect or typical example of a quality or class.",
+              "example": "He was the quintessential tough guy—strong, silent, and self-contained."
+            }
+          ],
+          "synonyms": ["typical", "archetypal", "stereotypical", "classic"]
+        }
+      ]
+    },
+    "luminous": {
+      "phonetic": "/ˈluːmɪnəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/luminous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Full of or shedding light; bright or shining, especially in the dark.",
+              "example": "The luminous dial on the clock made it easy to see at night."
+            },
+            {
+              "definition": "Very bright in color.",
+              "example": "She wore a luminous pink dress that stood out in the crowd."
+            }
+          ],
+          "synonyms": ["bright", "shining", "radiant", "brilliant"]
+        }
+      ]
+    },
+    "ubiquitous": {
+      "phonetic": "/juːˈbɪkwɪtəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ubiquitous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Present, appearing, or found everywhere.",
+              "example": "Smartphones have become ubiquitous in modern society."
+            }
+          ],
+          "synonyms": ["omnipresent", "pervasive", "universal", "everywhere"]
+        }
+      ]
+    },
+    "eloquent": {
+      "phonetic": "/ˈɛləkwənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eloquent-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Fluent or persuasive in speaking or writing.",
+              "example": "An eloquent speaker can captivate an audience."
+            }
+          ],
+          "synonyms": ["articulate", "expressive", "fluent", "silver-tongued"]
+        }
+      ]
+    },
+    "resilient": {
+      "phonetic": "/rɪˈzɪlɪənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resilient-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Able to withstand or recover quickly from difficult conditions.",
+              "example": "The resilient community rebuilt after the hurricane."
+            }
+          ],
+          "synonyms": ["strong", "tough", "durable", "flexible"]
+        }
+      ]
+    },
+    "voracious": {
+      "phonetic": "/vəˈreɪʃəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/voracious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Wanting or devouring great quantities of something.",
+              "example": "She was a voracious reader, finishing several books a week."
+            }
+          ],
+          "synonyms": ["insatiable", "unquenchable", "rapacious", "gluttonous"]
+        }
+      ]
+    },
+    "mellifluous": {
+      "phonetic": "/mɛˈlɪflʊəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mellifluous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Sweet or musical; pleasant to hear.",
+              "example": "The singer's mellifluous voice charmed the audience."
+            }
+          ],
+          "synonyms": ["dulcet", "honeyed", "sweet-sounding", "euphonious"]
+        }
+      ]
+    },
+    "surreptitious": {
+      "phonetic": "/ˌsərəpˈtɪʃəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surreptitious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Kept secret, especially because it would not be approved of.",
+              "example": "He took a surreptitious glance at his watch during the meeting."
+            }
+          ],
+          "synonyms": ["secret", "stealthy", "clandestine", "sneaky"]
+        }
+      ]
+    },
+    "petrichor": {
+      "phonetic": "/ˈpɛtrɪkɔːr/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/petrichor-uk.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.",
+              "example": "After months of drought, the petrichor was particularly noticeable when it finally rained."
+            }
+          ],
+          "synonyms": ["earthysmell", "rainsmell"]
+        }
+      ]
+    },
+    "epiphany": {
+      "phonetic": "/ɪˈpɪfəni/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A moment of sudden and great revelation or realization.",
+              "example": "She had an epiphany about the solution to the problem while in the shower."
+            }
+          ],
+          "synonyms": ["revelation", "realization", "insight", "awakening"]
+        }
+      ]
+    },
+    "ameliorate": {
+      "phonetic": "/əˈmiːljəreɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ameliorate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make something better.",
+              "example": "Efforts were made to ameliorate the working conditions."
+            }
+          ],
+          "synonyms": ["improve", "enhance", "better", "alleviate"]
+        }
+      ]
+    },
+    "cacophony": {
+      "phonetic": "/kəˈkɒfəni/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cacophony-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A harsh, discordant mixture of sounds.",
+              "example": "The cacophony of car horns filled the busy street."
+            }
+          ],
+          "synonyms": ["noise", "discord", "racket", "din"]
+        }
+      ]
+    },
+    "disparate": {
+      "phonetic": "/ˈdɪsp(ə)rət/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/disparate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Essentially different in kind; not able to be compared.",
+              "example": "They come from disparate backgrounds but share a common goal."
+            }
+          ],
+          "synonyms": ["different", "dissimilar", "distinct", "unlike"]
+        }
+      ]
+    },
+    "gregarious": {
+      "phonetic": "/ɡrɪˈɡɛːrɪəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/gregarious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Fond of company; sociable.",
+              "example": "She’s a gregarious person who loves hosting parties."
+            },
+            {
+              "definition": "Living in flocks or groups (of animals).",
+              "example": "Penguins are gregarious creatures."
+            }
+          ],
+          "synonyms": ["sociable", "outgoing", "friendly", "companionable"]
+        }
+      ]
+    },
+    "nostalgia": {
+      "phonetic": "/nɒˈstaldʒə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nostalgia-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A sentimental longing for the past.",
+              "example": "The old photos filled her with nostalgia."
+            }
+          ],
+          "synonyms": ["reminiscence", "wistfulness", "sentimentality", "yearning"]
+        }
+      ]
+    },
+    "obfuscate": {
+      "phonetic": "/ˈɒbfʌskeɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obfuscate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make something unclear or difficult to understand.",
+              "example": "The jargon only served to obfuscate the issue."
+            }
+          ],
+          "synonyms": ["confuse", "muddle", "cloud", "bewilder"]
+        }
+      ]
+    },
+    "pragmatic": {
+      "phonetic": "/praɡˈmatɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Dealing with things sensibly and realistically.",
+              "example": "She took a pragmatic approach to solving the problem."
+            }
+          ],
+          "synonyms": ["practical", "realistic", "sensible", "logical"]
+        }
+      ]
+    },
+    "zenith": {
+      "phonetic": "/ˈzɛnɪθ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zenith-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The highest point reached by a celestial or other object.",
+              "example": "The sun was at its zenith in the sky."
+            },
+            {
+              "definition": "The time at which something is most powerful or successful.",
+              "example": "His career reached its zenith in the 1990s."
+            }
+          ],
+          "synonyms": ["peak", "apex", "summit", "pinnacle"]
+        }
+      ]
+    },
+    "benevolent": {
+      "phonetic": "/bɪˈnɛvələnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/benevolent-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Well-meaning and kindly.",
+              "example": "A benevolent donor funded the new library."
+            }
+          ],
+          "synonyms": ["kind", "generous", "charitable", "benign"]
+        }
+      ]
+    },
+    "capricious": {
+      "phonetic": "/kəˈprɪʃəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/capricious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Given to sudden and unaccountable changes of mood or behavior.",
+              "example": "The weather was as capricious as a child’s whims."
+            }
+          ],
+          "synonyms": ["fickle", "unpredictable", "whimsical", "erratic"]
+        }
+      ]
+    },
+    "diligent": {
+      "phonetic": "/ˈdɪlɪdʒənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diligent-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having or showing care and conscientiousness in one’s work or duties.",
+              "example": "The diligent student completed all her assignments on time."
+            }
+          ],
+          "synonyms": ["hardworking", "industrious", "assiduous", "thorough"]
+        }
+      ]
+    },
+    "enigma": {
+      "phonetic": "/ɪˈnɪɡmə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enigma-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person or thing that is mysterious or difficult to understand.",
+              "example": "His motives remained an enigma to everyone."
+            }
+          ],
+          "synonyms": ["mystery", "puzzle", "riddle", "conundrum"]
+        }
+      ]
+    },
+    "fortitude": {
+      "phonetic": "/ˈfɔːrtɪtjuːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fortitude-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Courage in pain or adversity.",
+              "example": "She showed great fortitude during her illness."
+            }
+          ],
+          "synonyms": ["bravery", "resilience", "strength", "endurance"]
+        }
+      ]
+    },
+    "harbinger": {
+      "phonetic": "/ˈhɑːrbɪndʒər/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/harbinger-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person or thing that announces or signals the approach of another.",
+              "example": "The robin is a harbinger of spring."
+            }
+          ],
+          "synonyms": ["forerunner", "herald", "omen", "precursor"]
+        }
+      ]
+    },
+    "ineffable": {
+      "phonetic": "/ɪnˈɛfəbl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ineffable-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Too great or extreme to be expressed or described in words.",
+              "example": "The beauty of the sunset was ineffable."
+            }
+          ],
+          "synonyms": ["indescribable", "unspeakable", "inexpressible", "unutterable"]
+        }
+      ]
+    },
+    "juxtapose": {
+      "phonetic": "/ˌdʒʌkstəˈpəʊz/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/juxtapose-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To place or deal with close together for contrasting effect.",
+              "example": "The artist juxtaposed light and dark colors in the painting."
+            }
+          ],
+          "synonyms": ["contrast", "compare", "place side by side", "collocate"]
+        }
+      ]
+    },
+    "kismet": {
+      "phonetic": "/ˈkɪzmɛt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kismet-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Destiny; fate.",
+              "example": "It was kismet that they met on that rainy day."
+            }
+          ],
+          "synonyms": ["fate", "destiny", "fortune", "providence"]
+        }
+      ]
+    },
+    "labyrinth": {
+      "phonetic": "/ˈlabɪrɪnθ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/labyrinth-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A complicated irregular network of passages or paths.",
+              "example": "The old castle had a labyrinth of corridors."
+            },
+            {
+              "definition": "A complex and confusing situation.",
+              "example": "Navigating the legal system felt like a labyrinth."
+            }
+          ],
+          "synonyms": ["maze", "tangle", "web", "puzzle"]
+        }
+      ]
+    },
+    "magnanimous": {
+      "phonetic": "/maɡˈnanɪməs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/magnanimous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Generous or forgiving, especially toward a rival or less powerful person.",
+              "example": "He was magnanimous in victory, praising his opponent."
+            }
+          ],
+          "synonyms": ["generous", "noble", "big-hearted", "charitable"]
+        }
+      ]
+    },
+    "nebulous": {
+      "phonetic": "/ˈnɛbjʊləs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nebulous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "In the form of a cloud or haze; hazy.",
+              "example": "The mountain was shrouded in nebulous mist."
+            },
+            {
+              "definition": "Vague or ill-defined.",
+              "example": "His plans for the future were still nebulous."
+            }
+          ],
+          "synonyms": ["hazy", "vague", "unclear", "indistinct"]
+        }
+      ]
+    },
+    "ostentatious": {
+      "phonetic": "/ˌɒstɛnˈteɪʃəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ostentatious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+              "example": "His ostentatious lifestyle annoyed his modest friends."
+            }
+          ],
+          "synonyms": ["showy", "pretentious", "flashy", "extravagant"]
+        }
+      ]
+    },
+    "panacea": {
+      "phonetic": "/ˌpanəˈsiːə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/panacea-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A solution or remedy for all difficulties or diseases.",
+              "example": "Education is not a panacea for all social ills."
+            }
+          ],
+          "synonyms": ["cure-all", "remedy", "solution", "elixir"]
+        }
+      ]
+    },
+    "quixotic": {
+      "phonetic": "/kwɪkˈsɒtɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quixotic-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Unrealistically optimistic or impractical.",
+              "example": "His quixotic quest to save the world amused his friends."
+            }
+          ],
+          "synonyms": ["idealistic", "unrealistic", "impractical", "visionary"]
+        }
+      ]
+    },
+    "recalcitrant": {
+      "phonetic": "/rɪˈkalsɪtrənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recalcitrant-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having an obstinately uncooperative attitude toward authority or discipline.",
+              "example": "The recalcitrant child refused to follow instructions."
+            }
+          ],
+          "synonyms": ["stubborn", "defiant", "uncooperative", "rebellious"]
+        }
+      ]
+    },
+    "sanguine": {
+      "phonetic": "/ˈsaŋɡwɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sanguine-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+              "example": "She remained sanguine despite the setbacks."
+            },
+            {
+              "definition": "Blood-red in color.",
+              "example": "The sky turned a sanguine hue at sunset."
+            }
+          ],
+          "synonyms": ["cheerful", "hopeful", "confident", "rosy"]
+        }
+      ]
+    },
+    "taciturn": {
+      "phonetic": "/ˈtasɪtəːn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/taciturn-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Reserved or uncommunicative in speech; saying little.",
+              "example": "The taciturn man rarely joined the conversation."
+            }
+          ],
+          "synonyms": ["silent", "quiet", "reserved", "unspoken"]
+        }
+      ]
+    },
+    "ubiquity": {
+      "phonetic": "/juːˈbɪkwɪti/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ubiquity-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The fact of appearing everywhere or of being very common.",
+              "example": "The ubiquity of coffee shops surprised the tourists."
+            }
+          ],
+          "synonyms": ["omnipresence", "prevalence", "commonness", "universality"]
+        }
+      ]
+    },
+    "venerate": {
+      "phonetic": "/ˈvɛnəreɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/venerate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To regard with great respect; revere.",
+              "example": "They venerate their ancestors with annual ceremonies."
+            }
+          ],
+          "synonyms": ["revere", "honor", "respect", "admire"]
+        }
+      ]
+    },
+    "wistful": {
+      "phonetic": "/ˈwɪstfʊl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wistful-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having or showing a feeling of vague or regretful longing.",
+              "example": "She gave a wistful smile as she recalled her childhood."
+            }
+          ],
+          "synonyms": ["yearning", "nostalgic", "pensive", "melancholy"]
+        }
+      ]
+    },
+    "xenophobic": {
+      "phonetic": "/ˌzɛnəˈfəʊbɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/xenophobic-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having or showing a dislike of or prejudice against people from other countries.",
+              "example": "His xenophobic remarks offended the diverse audience."
+            }
+          ],
+          "synonyms": ["prejudiced", "intolerant", "bigoted", "nationalistic"]
+        }
+      ]
+    },
+    "yearn": {
+      "phonetic": "/jəːn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yearn-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To have an intense feeling of longing for something, typically something that one has lost or been separated from.",
+              "example": "She yearned for the days of her youth."
+            }
+          ],
+          "synonyms": ["long", "crave", "desire", "pine"]
+        }
+      ]
+    },
+    "abate": {
+      "phonetic": "/əˈbeɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To become less intense or widespread.",
+              "example": "The storm began to abate after hours of heavy rain."
+            }
+          ],
+          "synonyms": ["subside", "lessen", "decrease", "diminish"]
+        }
+      ]
+    },
+    "beguile": {
+      "phonetic": "/bɪˈɡʌɪl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beguile-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To charm or enchant someone, often in a deceptive way.",
+              "example": "She beguiled the audience with her witty tales."
+            },
+            {
+              "definition": "To pass time pleasantly.",
+              "example": "He beguiled the hours with a good book."
+            }
+          ],
+          "synonyms": ["charm", "deceive", "entertain", "captivate"]
+        }
+      ]
+    },
+    "candid": {
+      "phonetic": "/ˈkandɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/candid-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Truthful and straightforward; frank.",
+              "example": "His candid response surprised everyone."
+            }
+          ],
+          "synonyms": ["honest", "open", "frank", "sincere"]
+        }
+      ]
+    },
+    "dearth": {
+      "phonetic": "/dəːθ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dearth-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A scarcity or lack of something.",
+              "example": "There was a dearth of evidence to support his claim."
+            }
+          ],
+          "synonyms": ["scarcity", "lack", "shortage", "insufficiency"]
+        }
+      ]
+    },
+    "ebullient": {
+      "phonetic": "/ɪˈbʌljənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ebullient-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Cheerful and full of energy.",
+              "example": "Her ebullient personality lit up the room."
+            }
+          ],
+          "synonyms": ["exuberant", "enthusiastic", "buoyant", "lively"]
+        }
+      ]
+    },
+    "facetious": {
+      "phonetic": "/fəˈsiːʃəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/facetious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Treating serious issues with deliberately inappropriate humor.",
+              "example": "His facetious remark offended the grieving family."
+            }
+          ],
+          "synonyms": ["flippant", "joking", "humorous", "playful"]
+        }
+      ]
+    },
+    "garrulous": {
+      "phonetic": "/ˈɡarʊləs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garrulous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Excessively talkative, especially on trivial matters.",
+              "example": "The garrulous neighbor kept us up all night."
+            }
+          ],
+          "synonyms": ["chatty", "loquacious", "verbose", "talkative"]
+        }
+      ]
+    },
+    "hapless": {
+      "phonetic": "/ˈhaplɪs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hapless-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Unfortunate or unlucky.",
+              "example": "The hapless traveler lost all his luggage."
+            }
+          ],
+          "synonyms": ["unlucky", "unfortunate", "wretched", "miserable"]
+        }
+      ]
+    },
+    "iconoclast": {
+      "phonetic": "/aɪˈkɒnəklast/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/iconoclast-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person who attacks cherished beliefs or institutions.",
+              "example": "He was an iconoclast who challenged traditional norms."
+            }
+          ],
+          "synonyms": ["rebel", "nonconformist", "dissenter", "heretic"]
+        }
+      ]
+    },
+    "jocular": {
+      "phonetic": "/ˈdʒɒkjʊlə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jocular-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Fond of or characterized by joking; humorous or playful.",
+              "example": "His jocular tone lightened the mood."
+            }
+          ],
+          "synonyms": ["humorous", "witty", "playful", "jesting"]
+        }
+      ]
+    },
+    "kinetic": {
+      "phonetic": "/kɪˈnɛtɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kinetic-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Relating to or resulting from motion.",
+              "example": "The kinetic energy of the moving car was impressive."
+            }
+          ],
+          "synonyms": ["moving", "dynamic", "active", "energetic"]
+        }
+      ]
+    },
+    "lethargic": {
+      "phonetic": "/lɪˈθɑːdʒɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lethargic-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Sluggish and apathetic.",
+              "example": "He felt lethargic after a long day at work."
+            }
+          ],
+          "synonyms": ["sluggish", "lazy", "inactive", "listless"]
+        }
+      ]
+    },
+    "malleable": {
+      "phonetic": "/ˈmalɪəbl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/malleable-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Easily shaped or molded; pliable.",
+              "example": "The malleable clay was perfect for sculpting."
+            },
+            {
+              "definition": "Easily influenced or adaptable.",
+              "example": "Her malleable mind quickly adopted new ideas."
+            }
+          ],
+          "synonyms": ["pliable", "flexible", "adaptable", "ductile"]
+        }
+      ]
+    },
+    "nonchalant": {
+      "phonetic": "/ˈnɒnʃələnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nonchalant-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Feeling or appearing casually calm and relaxed.",
+              "example": "He gave a nonchalant shrug despite the chaos."
+            }
+          ],
+          "synonyms": ["casual", "relaxed", "unconcerned", "cool"]
+        }
+      ]
+    },
+    "obdurate": {
+      "phonetic": "/ˈɒbdjʊrɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obdurate-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Stubbornly unwilling to change one’s opinion or course of action.",
+              "example": "She remained obdurate despite the evidence."
+            }
+          ],
+          "synonyms": ["stubborn", "inflexible", "unyielding", "obstinate"]
+        }
+      ]
+    },
+    "parsimonious": {
+      "phonetic": "/ˌpɑːsɪˈməʊnɪəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/parsimonious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Unwilling to spend money or use resources; stingy.",
+              "example": "His parsimonious habits annoyed his generous friends."
+            }
+          ],
+          "synonyms": ["stingy", "frugal", "miserly", "thrifty"]
+        }
+      ]
+    },
+    "querulous": {
+      "phonetic": "/ˈkwɛrʊləs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/querulous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Complaining in a petulant or whining manner.",
+              "example": "The querulous tone of his voice irritated everyone."
+            }
+          ],
+          "synonyms": ["whining", "petulant", "grumbling", "peevish"]
+        }
+      ]
+    },
+    "rancor": {
+      "phonetic": "/ˈraŋkə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rancor-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Bitterness or resentfulness, especially when long-standing.",
+              "example": "There was no rancor between them despite their past."
+            }
+          ],
+          "synonyms": ["bitterness", "resentment", "animosity", "spite"]
+        }
+      ]
+    },
+    "salient": {
+      "phonetic": "/ˈseɪlɪənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salient-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Most noticeable or important.",
+              "example": "The salient points of the argument were highlighted."
+            }
+          ],
+          "synonyms": ["prominent", "noticeable", "striking", "significant"]
+        }
+      ]
+    },
+    "tenuous": {
+      "phonetic": "/ˈtɛnjʊəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tenuous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Very weak or slight.",
+              "example": "The tenuous connection between the events was hard to prove."
+            }
+          ],
+          "synonyms": ["weak", "fragile", "slight", "flimsy"]
+        }
+      ]
+    },
+    "unfathomable": {
+      "phonetic": "/ʌnˈfaðəməbl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unfathomable-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Incapable of being fully explored or understood.",
+              "example": "The depths of the ocean are unfathomable."
+            }
+          ],
+          "synonyms": ["incomprehensible", "mysterious", "immeasurable", "infinite"]
+        }
+      ]
+    },
+    "vex": {
+      "phonetic": "/vɛks/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/vex-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make someone feel annoyed, frustrated, or worried.",
+              "example": "The delay continued to vex the passengers."
+            }
+          ],
+          "synonyms": ["annoy", "irritate", "bother", "frustrate"]
+        }
+      ]
+    },
+    "wanton": {
+      "phonetic": "/ˈwɒntən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wanton-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Deliberate and unprovoked.",
+              "example": "The wanton destruction of the forest angered the locals."
+            },
+            {
+              "definition": "Sexually immodest or promiscuous.",
+              "example": "Her wanton behavior shocked the conservative crowd."
+            }
+          ],
+          "synonyms": ["reckless", "unjustified", "loose", "immoral"]
+        }
+      ]
+    },
+    "zealous": {
+      "phonetic": "/ˈzɛləs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having or showing zeal; enthusiastic.",
+              "example": "The zealous volunteer worked tirelessly for the cause."
+            }
+          ],
+          "synonyms": ["enthusiastic", "passionate", "fervent", "ardent"]
+        }
+      ]
+    },
+    "acumen": {
+      "phonetic": "/əˈkjuːmən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acumen-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The ability to make good judgments and quick decisions.",
+              "example": "Her business acumen led to a successful career."
+            }
+          ],
+          "synonyms": ["insight", "shrewdness", "judgment", "perception"]
+        }
+      ]
+    },
+    "blithe": {
+      "phonetic": "/blaɪð/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blithe-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Showing a casual and cheerful indifference.",
+           "example": "She gave a blithe wave as she walked away."
+            }
+          ],
+          "synonyms": ["carefree", "cheerful", "lighthearted", "unconcerned"]
+        }
+      ]
+    },
+    "clandestine": {
+      "phonetic": "/ˈklandɛstɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/clandestine-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Kept secret or done secretively.",
+              "example": "They held a clandestine meeting in the basement."
+            }
+          ],
+          "synonyms": ["secret", "covert", "surreptitious", "hidden"]
+        }
+      ]
+    },
+    "deleterious": {
+      "phonetic": "/ˌdɛlɪˈtɪərɪəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deleterious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Causing harm or damage.",
+              "example": "Smoking has deleterious effects on health."
+            }
+          ],
+          "synonyms": ["harmful", "damaging", "detrimental", "injurious"]
+        }
+      ]
+    },
+    "effervescent": {
+      "phonetic": "/ˌɛfəˈvɛsnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/effervescent-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Giving off bubbles; fizzy.",
+              "example": "The effervescent drink sparkled in the glass."
+            },
+            {
+              "definition": "Vivacious and enthusiastic.",
+              "example": "Her effervescent personality won everyone over."
+            }
+          ],
+          "synonyms": ["bubbly", "fizzy", "lively", "exuberant"]
+        }
+      ]
+    },
+    "fastidious": {
+      "phonetic": "/faˈstɪdɪəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fastidious-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Very attentive to detail and cleanliness.",
+              "example": "He was fastidious about keeping his desk tidy."
+            }
+          ],
+          "synonyms": ["meticulous", "scrupulous", "picky", "precise"]
+        }
+      ]
+    },
+    "guile": {
+      "phonetic": "/ɡaɪl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guile-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Sly or cunning intelligence.",
+              "example": "He used guile to outsmart his opponents."
+            }
+          ],
+          "synonyms": ["cunning", "deceit", "slyness", "craftiness"]
+        }
+      ]
+    },
+    "hackneyed": {
+      "phonetic": "/ˈhaknɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hackneyed-us.mp3",
+      "meanings": [
+        {
+          "part OfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Lacking significance through having been overused.",
+              "example": "The hackneyed phrase bored the audience."
+            }
+          ],
+          "synonyms": ["trite", "banal", "clichéd", "stale"]
+        }
+      ]
+    },
+    "impetuous": {
+      "phonetic": "/ɪmˈpɛtjʊəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impetuous-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Acting or done quickly and without thought or care.",
+              "example": "His impetuous decision led to regret."
+            }
+          ],
+          "synonyms": ["rash", "hasty", "impulsive", "reckless"]
+        }
+      ]
+    },
+    "jettison": {
+      "phonetic": "/ˈdʒɛtɪsən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jettison-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To throw or drop something from an aircraft or ship.",
+              "example": "The crew jettisoned the cargo to lighten the load."
+            },
+            {
+              "definition": "To abandon or discard something.",
+              "example": "She jettisoned her old habits for a fresh start."
+            }
+          ],
+          "synonyms": ["discard", "dump", "abandon", "eject"]
+        }
+      ]
+    },
+    "kudos": {
+      "phonetic": "/ˈkjuːdɒs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kudos-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Praise and honor received for an achievement.",
+              "example": "She earned kudos for her innovative design."
+            }
+          ],
+          "synonyms": ["praise", "acclaim", "honor", "recognition"]
+        }
+      ]
+    },
+    "languid": {
+      "phonetic": "/ˈlaŋɡwɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/languid-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Lacking in vigor or vitality; slow and relaxed.",
+              "example": "He moved with a languid grace under the hot sun."
+            }
+          ],
+          "synonyms": ["lethargic", "relaxed", "listless", "sluggish"]
+        }
+      ]
+    },
+    "modicum": {
+      "phonetic": "/ˈmɒdɪkəm/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/modicum-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A small quantity of something.",
+              "example": "He showed a modicum of respect for the rules."
+            }
+          ],
+          "synonyms": ["bit", "small amount", "trace", "smidgen"]
+        }
+      ]
+    },
+    "nadir": {
+      "phonetic": "/ˈneɪdɪə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nadir-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The lowest point in the fortunes of a person or organization.",
+              "example": "The company reached its nadir during the recession."
+            }
+          ],
+          "synonyms": ["low point", "bottom", "depths", "trough"]
+        }
+      ]
+    },
+    "oblique": {
+      "phonetic": "/əˈbliːk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/oblique-us.mp3",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Slanting or inclined in direction or course.",
+              "example": "The oblique rays of the sun cast long shadows."
+            },
+            {
+              "definition": "Not straightforward; indirect.",
+              "example": "She made an oblique reference to his mistake."
+            }
+          ],
+          "synonyms": ["slanted", "indirect", "angled", "circuitous"]
+        }
+      ]
+    }
+  }
+}

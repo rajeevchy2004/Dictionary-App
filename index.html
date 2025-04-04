@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LexiGlow - Modern Dictionary</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="logo-container">
+                <i class="fas fa-book-open logo-icon"></i>
+                <h1 class="logo-text">Lexi<span>Glow</span></h1>
+            </div>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search for a word..." autocomplete="off">
+                <button id="search-btn"><i class="fas fa-search"></i></button>
+                <div class="suggestions-box" id="suggestions"></div>
+            </div>
+            <button class="theme-toggle" id="theme-toggle">
+                <i class="fas fa-moon"></i>
+            </button>
+        </header>
+
+        <main class="content-area">
+            <div class="word-display" id="word-display">
+                <div class="welcome-screen">
+                    <div class="welcome-content">
+                        <i class="fas fa-book-open"></i>
+                        <h2>Welcome to LexiGlow</h2>
+                        <p>Type a word in the search box to get its definition, pronunciation, and examples.</p>
+                        <div class="popular-searches">
+                            <h3>Try these words:</h3>
+                            <div class="popular-tags">
+                                <span class="tag">serendipity</span>
+                                <span class="tag">ephemeral</span>
+                                <span class="tag">quintessential</span>
+                                <span class="tag">luminous</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="history-sidebar">
+                <h3 class="sidebar-title"><i class="fas fa-history"></i> Recent Searches</h3>
+                <ul class="history-list" id="history-list"></ul>
+            </div>
+        </main>
+
+        <footer class="app-footer">
+            <p>© 2023 LexiGlow Dictionary | Made with <i class="fas fa-heart"></i> for word lovers</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
